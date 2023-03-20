@@ -35,3 +35,4 @@ npm start
 [Development server](http://localhost:3000/)
 ```
 
+![](https://github.com/MarkoVitkovic/scaledrone_chat_app/blob/main/public/Untitled.png)
